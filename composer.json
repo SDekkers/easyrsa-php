@@ -1,5 +1,5 @@
 {
-  "name": "evilfreelancer/easyrsa-php",
+  "name": "sdekkers/easyrsa-php",
   "type": "library",
   "description": "An easy way to use the official EasyRSA collection of shell scripts in your application",
   "license": "MIT",
@@ -22,7 +22,7 @@
     }
   ],
   "require": {
-    "php": "^7.2",
+    "php": "^7.2||^8.0",
     "ext-curl": "*",
     "ext-json": "*",
     "splitbrain/php-archive": "^1.1"
